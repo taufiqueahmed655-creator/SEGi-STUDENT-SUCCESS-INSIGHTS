@@ -9,6 +9,7 @@ SEGi University aims to improve student success, engagement, and retention. You 
   • Co-curricular involvement
   
 I was required to produce a professional data analysis report that includes:
+
   • Data cleaning summary
   • Exploratory data analysis
   • Statistical summaries
@@ -17,6 +18,7 @@ I was required to produce a professional data analysis report that includes:
   • Actionable recommendations
   
 The management will use your report to:
+
   • Improve academic support strategies
   • Identify at-risk students
   • Understand engagement patterns
